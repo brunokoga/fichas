@@ -18,9 +18,9 @@
 - **Power Points** 7;
 - **Psion Powers Known** (ML 3, Concentration +6)
   - a
-    - b
-      - c
-      - **Special Attacks** 
+  - b
+  - c
+- **Special Attacks** 
 
 ####Statistics
 - **Str** 10, **Dex** 19 (+4), **Con** 10, **Int** 12 (+1), **Wis** 16 (+3), **Cha** 10
@@ -33,19 +33,17 @@
 - **Combat Gear** healer’s kit (10 uses); Other Gear , longbow +1, elven longblade, 40 arrows, 20 +1 arrows, backpack, studded leather armor
 - **Additional Gear**
 
-
-
 - **Skills**
   - Concentration +6 (lvl classe + wis)
-    - Perception +3 (rank), +3 (class), +3 (wis), +2 (racial) = +11
-      - Steath +3 (rank), +3 (class), +4 (dex) = +10
-        - Knowledge psionic +1 (rank) +3 (class) +1 (int) =+5
-          - Acrobatics +1 (rank), +3 (class) +4 (dex) = +8
-            - Escape Artist +1 (rank), +3 (class) +4 (dex) = +8
-              - Sense Motive +1 (rank), +3 (class), +3 (wis) = +7
-                - Survival +3 (rank), +3 (class), +3 (wis) = +9
-                  - Intimidate +1(rank), +3 (class) = +4
-                    - Climb +1 (rank) +3 (class) = +4
+  - Perception +3 (rank), +3 (class), +3 (wis), +2 (racial) = +11
+  - Steath +3 (rank), +3 (class), +4 (dex) = +10
+  - Knowledge psionic +1 (rank) +3 (class) +1 (int) =+5
+  - Acrobatics +1 (rank), +3 (class) +4 (dex) = +8
+  - Escape Artist +1 (rank), +3 (class) +4 (dex) = +8
+  - Sense Motive +1 (rank), +3 (class), +3 (wis) = +7
+  - Survival +3 (rank), +3 (class), +3 (wis) = +9
+  - Intimidate +1(rank), +3 (class) = +4
+  - Climb +1 (rank) +3 (class) = +4
 
 ####Feats
 **Psionic Shot (Psionic)**
