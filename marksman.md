@@ -13,10 +13,12 @@
 ####Offense
 
 - **Speed** 40 ft.
-- **Melee** elven longblade +3 (BBA) -1d8+/18-20
-- **Ranged** longbow +9  (+1 magic, +4 dex, +1 competence, +3 BBA) - 1d6+1/x3
+- **Melee** elven longblade +3 (BBA) - 1d8+/18-20
+- **Ranged** longbow +9  (+1 magic, +4 dex, +1 competence, +3 BBA) - 1d6+1 (magic)/x3
 	- within 30ft: +1 attack, +1 damage
-	- mantaining psionic focus: +3 damage (+1 feat, +2 style mantra) or +1 damage, +3 attack (Wind Reader)
+	- maintaining psionic focus:
+		-  +3 damage (+1 feat, +2 style mantra) or
+		- +1 damage (feat) and +3 attack (Wind Reader)
 	- spending psionic focus: +2d6 +3 damage
 - **Power Points** 7;
 - **Psion Powers Known** (ML 3, Concentration +6)
@@ -30,7 +32,7 @@
 
 - **Other abilities** Power Points 7 (ML 3, Concentration +6)
 
-- **SQ** extended activity
+- **SQ** evade arrows, wind reader, style technique, style skill, style mantra, favored weapon
 - **Combat Gear** healer’s kit (10 uses); Other Gear , longbow +1, elven longblade, 40 arrows, 15 +1 arrows, backpack, studded leather armor
 - **Additional Gear**
 
@@ -48,7 +50,6 @@
 
 ####Feats
 **Psionic Shot (Psionic)**
-You can charge your ranged attacks with additional damage potential.
 While you maintain psionic focus, your attacks with a ranged weapon deal an extra 1 point of damage. Additionally, if you expend your psionic focus as part of an attack with a ranged weapon, that attack instead deals an extra 2d6 points of damage. You must decide whether or not to use this feat prior to making an attack. If your attack misses, you still expend your psionic focus.
 
 **Point-Blank Shot (Combat)**
@@ -65,7 +66,7 @@ Note: Two characters are engaged in melee if they are enemies of each other and 
 A Marksman can use her heightened senses and awareness of her surroundings to read the wind and environment, allowing her to drastically improve her accuracy. While maintaining psionic focus, she can spend a swift action to gain a competence bonus equal to her Wisdom modifier on ranged attacks until the end of the round. She can do this a number of times per day equal to 3 + her class level.
 
 **Style Technique**
-Once a Marksman has reached 2nd level, she may expend her psionic focus while making a single ranged attack to add her Wisdom modifier to the damage the attack deals. This ability may not be used as part of a full attack.
+May expend psionic focus while making a single ranged attack to add her Wisdom modifier to the damage the attack deals. This ability may not be used as part of a full attack.
 
 **Style Skill**
 At 3rd level, a sniper Marksman gains a +1 bonus to Stealth. This bonus increases by 1 every three Marksman levels thereafter.
@@ -127,4 +128,5 @@ Augment: For every additional power point you spend, your swim speed and bonus t
 $ 3000
 1 longbow +1= 2375
 40 flechas normais 2
-15 flechas +1  = 800
+15 flechas +1  = 600
+$ = 33cp
