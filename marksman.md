@@ -2,7 +2,7 @@
 #####Neutral Evil Elf Sniper Marksman (elf, psionic), lvl 3, XP 4650
 #####Medium humanoid
 
-**Init** +6 (+4 dex, +2 racial); **Senses** low-light vision; **Perception** +9
+**Init** +8 (+4 dex, +2 racial, +2 trait); **Senses** low-light vision; **Perception** +9
 
 ####Defense
 - **AC** 17 (18 ranged), touch 14, flat-flooted (+3 armor, +4 dex)
@@ -23,7 +23,7 @@
 - **Power Points** 7;
 - **Psion Powers Known** (ML 3, Concentration +6)
   - 1st - [Deflect Missiles](http://www.d20pfsrd.com/psionics-unleashed/psionic-powers/d/deflect-missiles), [Inevitable Strike](http://www.d20pfsrd.com/psionics-unleashed/psionic-powers/i/inevitable-strike), [Burst](http://www.d20pfsrd.com/psionics-unleashed/psionic-powers/b/burst)
-  - 0- [Float](http://www.d20pfsrd.com/psionics-unleashed/psionic-powers/f/float) 
+  - 0- [Float](http://www.d20pfsrd.com/psionics-unleashed/psionic-powers/f/float), [Trick Shot](http://www.d20pfsrd.com/psionics-unleashed/psionic-powers/t/trick-shot)
 
 ####Statistics
 - **Str** 10, **Dex** 19 (+4), **Con** 10, **Int** 12 (+1), **Wis** 16 (+3), **Cha** 10
@@ -32,7 +32,7 @@
 
 - **Other abilities** Power Points 7 (ML 3, Concentration +6)
 
-- **SQ** evade arrows, wind reader, style technique, style skill, style mantra, favored weapon
+- **SQ** favored class (Marksman: You gain 1 psionic talent), evade arrows, wind reader, style technique, style skill, style mantra, favored weapon
 - **Combat Gear** healer’s kit (10 uses); Other Gear , longbow +1, elven longblade, 40 arrows, 15 +1 arrows, backpack, studded leather armor
 - **Additional Gear**
 
@@ -60,6 +60,11 @@ You get a +1 bonus on attack and damage rolls with ranged weapons at ranges of u
 You are adept at firing ranged attacks into melee.
 You can shoot or throw ranged weapons at an opponent engaged in melee without taking the standard –4 penalty on your attack roll.
 Note: Two characters are engaged in melee if they are enemies of each other and either threatens the other.
+
+####Traits
+**Warrior of Old**: As a child, you put in long hours in combat drills, and though time has made this training a dim memory, you still have a knack for quickly responding to trouble. You gain a +2 trait bonus on Initiative checks.
+
+**Desert Child**: You were born and raised in rocky deserts. You are accustomed to high temperatures, and gain a +4 trait bonus on any saving throws made to resist the effects of being in hot conditions and a +1 trait bonus on all saving throws against fire effects.
 
 ####Special Qualities
 **Wind Reader (Su)**
@@ -123,10 +128,29 @@ Target: you
 Duration: 1 rnd./lvl. (D)
 Power Points: psionic focus or 1
 You mentally support yourself in water or similar liquid. You can swim at a speed of 5 feet using the power alone, or, if you already have a swim speed, this power boosts your swim speed by 5 feet.
-Augment: For every additional power point you spend, your swim speed and bonus to swim speed increases by +5 feet.
+
+**Trick Shot**
+
+By altering the levels of probability surrounding a small object in motion, you can ‘trick' it into performing seemingly impossible maneuvers. While this ability has no direct influence on an attack roll, it can nevertheless make a certain outcome possible in the first place. Until the beginning of your next turn, you may make one Tiny or smaller moving object perform a ‘trick shot' -- a stunt that you describe -- so long as it is not moving under its own power (thrown objects or fired projectiles are not moving under their own power, while an insect or a flying psicrystal are). So long as the stunt can be succinctly described in ten words or less, it occurs, no matter how unlikely this is. This trick shot has no influence on attack or damage rolls, although the effect itself may allow an attack to occur. Example trick shots include the following (which are descriptive and of varying complexity; the sentences used in manifesting are shorter): - Shooting an arrow through the sockets of twelve axe heads between you and your target - Bouncing a billiard ball off of nine different fixtures (including your friend's breastplate) before sinking in a pocket - Having a crossbow bolt “loop the loop” before impacting normally - Forcing a tossed coin to land, perfectly stable, on its edge - Getting a javelin to slalom around trees between you and your target - Directing the tiny bead of an undetonated fireball to fly a “figure eight” around its target's feet - Allowing a dagger, despite being pointy, to bounce off of the ground between a creature's legs and continue unhindered to its actual target behind him
+
+Additional trick shots beyond this list are possible.
+
+From a combat perspective, the most powerful use of this power would be to shoot around corners, but doing so is treated as shooting blind. It is more frequently used, however, to show off outside of combat.
+
+Augment: You may augment this power in one or more of the following ways.
+
+1. Each additional power point spent allows you to affect one additional object before the power ends, although this cannot allow you to make more attacks in a standard attack or full attack than normal.
+
+2. For every 2 additional power points you spend, the size of an object you can affect with this power increases one step.
+
+3. For every additional power point you spend, the power's duration extends 1 round. The number of objects you can alter this way remains unchanged, and the power still ends when these run out.
+
+Additionally, every additional power point spent to achieve any of these effects allows for your trick shots to be described in sentences of up to one word longer.
 
 $ 3000
 1 longbow +1= 2375
 40 flechas normais 2
 15 flechas +1  = 600
 $ = 33cp
+
+
