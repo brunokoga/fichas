@@ -1,4 +1,4 @@
-###NOME_DO_PERSONAGEM
+###Hitch en'Rann
 #####Neutral Evil Elf Sniper Marksman (elf, psionic), lvl 3, XP 4650
 #####Medium humanoid
 
