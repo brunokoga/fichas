@@ -38,3 +38,7 @@ The smite effect remains until the target of the smite is dead or the next time 
 **Divine Health (Ex)**: At 3rd level, you are immune to all diseases, including supernatural and magical diseases, including mummy rot.
 
 **Mercy (Su)**: (Fatigued) At 3rd level, and every three levels thereafter, you can select one mercy. Each mercy adds an effect to your lay on hands ability. Whenever you uses lay on hands to heal damage to one target, the target also receives the additional effects from all of the mercies possessed by you. A mercy can remove a condition caused by a curse, disease, or poison without curing the affliction. Such conditions return after 1 hour unless the mercy actually removes the affliction that causes the condition.
+
+####Traits
+
+**Desert Child (desert)**: You were born and raised in rocky deserts. You are accustomed to high temperatures, and gain a +4 trait bonus on any saving throws made to resist the effects of being in hot conditions and a +1 trait bonus on all saving throws against fire effects.
