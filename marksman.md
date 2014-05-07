@@ -1,5 +1,5 @@
-###NOME_DO_PERSONAGEM
-#####Neutral Evil Elf Sniper Marksman (elf, psionic), lvl 4, XP 6000
+###Hitch en'Rann
+#####Neutral Evil Elf Sniper Marksman (elf, psionic), lvl 4, XP 600
 #####Medium humanoid
 
 **Init** +9 (+5 dex, +2 racial, +2 trait); **Senses** low-light vision; **Perception** +9
