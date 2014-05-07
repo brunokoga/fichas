@@ -1,33 +1,33 @@
 ###NOME_DO_PERSONAGEM
-#####Neutral Evil Elf Sniper Marksman (elf, psionic), lvl 3, XP 4650
+#####Neutral Evil Elf Sniper Marksman (elf, psionic), lvl 4, XP 6000
 #####Medium humanoid
 
-**Init** +8 (+4 dex, +2 racial, +2 trait); **Senses** low-light vision; **Perception** +9
+**Init** +9 (+5 dex, +2 racial, +2 trait); **Senses** low-light vision; **Perception** +9
 
 ####Defense
-- **AC** 17 (18 ranged), touch 14, flat-flooted (+3 armor, +4 dex)
-- **HP** 21 (3d10)
-- **Fort** +2, **Ref** +7, **Will** +6
+- **AC** 18 (19 ranged), touch 14, flat-flooted (+3 armor, +5 dex)
+- **HP** 26 (4d10)
+- **Fort** +2, **Ref** +9, **Will** +7
 - **Defensive Abilities:** 
 
 ####Offense
 
 - **Speed** 40 ft.
-- **Melee** elven longblade +3 (BBA) - 1d8+/18-20
-- **Ranged** longbow +9  (+1 magic, +4 dex, +1 competence, +3 BBA) - 1d6+1 (magic)/x3
+- **Melee** elven longblade +4 (BBA) - 1d8+/18-20
+- **Ranged** longbow +11  (+1 magic, +5 dex, +1 competence, +4 BBA) - 1d6+1 (magic)/x3
 	- within 30ft: +1 attack, +1 damage
 	- maintaining psionic focus:
 		-  +3 damage (+1 feat, +2 style mantra) or
 		- +1 damage (feat) and +3 attack (Wind Reader)
 	- spending psionic focus: +2d6 +3 damage
-- **Power Points** 7;
+- **Power Points** 9;
 - **Psion Powers Known** (ML 3, Concentration +6)
   - 1st - [Deflect Missiles](http://www.d20pfsrd.com/psionics-unleashed/psionic-powers/d/deflect-missiles), [Inevitable Strike](http://www.d20pfsrd.com/psionics-unleashed/psionic-powers/i/inevitable-strike), [Burst](http://www.d20pfsrd.com/psionics-unleashed/psionic-powers/b/burst)
   - 0- [Float](http://www.d20pfsrd.com/psionics-unleashed/psionic-powers/f/float), [Trick Shot](http://www.d20pfsrd.com/psionics-unleashed/psionic-powers/t/trick-shot)
 
 ####Statistics
-- **Str** 10, **Dex** 19 (+4), **Con** 10, **Int** 12 (+1), **Wis** 16 (+3), **Cha** 10
-- **BBA** +3; **CMB**, **CMD**
+- **Str** 10, **Dex** 20 (+5), **Con** 10, **Int** 12 (+1), **Wis** 16 (+3), **Cha** 10
+- **BBA** +4; **CMB**, **CMD**
 - **Feats** Point blank shot, precise shot, psionic shot
 
 - **Other abilities** Power Points 7 (ML 3, Concentration +6)
@@ -38,15 +38,16 @@
 
 - **Skills**
 	- Concentration +6 (lvl classe + wis)
-	- Perception +3 (rank), +3 (class), +3 (wis), +2 (racial) = +11
-	- Steath +3 (rank), +3 (class), +4 (dex) = +10
+	- Perception +4 (rank), +3 (class), +3 (wis), +2 (racial) = +12
+	- Steath +3 (rank), +3 (class), +5 (dex) = +11
 	- Knowledge psionic +1 (rank) +3 (class) +1 (int) =+5
-	- Acrobatics +1 (rank), +3 (class) +4 (dex) = +8
-	- Escape Artist +1 (rank), +3 (class) +4 (dex) = +8
+	- Acrobatics +2 (rank), +3 (class) +5 (dex) = +10
+	- Escape Artist +1 (rank), +3 (class) +5 (dex) = +9
 	- Sense Motive +1 (rank), +3 (class), +3 (wis) = +7
 	- Survival +3 (rank), +3 (class), +3 (wis) = +9
 	- Intimidate +1(rank), +3 (class) = +4
 	- Climb +1 (rank) +3 (class) = +4
+	- Sleight of Hand +3 (rank) +5 (dex) = +8
 
 ####Feats
 **Psionic Shot (Psionic)**
@@ -84,6 +85,13 @@ Marksmen of 2nd level select a group of ranged weapons as their preferred weapon
 
 **Evade Arrows (Ex)**
 At 2nd level, a Marksman's familiarity with ranged attacks and her natural intuition alerts her to danger from mundane ranged attacks. She gains a +1 Dodge bonus to Armor Class against ranged attacks (but not ranged touch attacks). At 6th level and every four Marksman levels thereafter, this Dodge bonus increases by 1.
+
+**Second Chance (Su)**
+A sniper Marksman of 4th level may expend her psionic focus when a ranged attack she has made misses to reroll the attack. This ability can be used a number of times per day equal to 3 + the Marksman’s Wisdom modifier.
+
+**Cover Fire (Ex)**
+Beginning at 4th level, the Marksman knows not only how to directly engage her enemies, but also how to protect her allies. As an attack action, she may choose to fire a ranged or thrown weapon at an opponent within 30 feet to distract that opponent rather than to deal damage. Make an attack roll against the space a target occupies (AC 10). If successful, the targeted enemy must make a Reflex save (DC 10 + one-half the Marksman's class level + the Marksman's Dexterity modifier), or be staggered for one round. The Marksman still expends ammunition as normal for this attack.
+If the attack roll would indicate a critical threat and the result would hit the opponent's AC, roll to confirm: if the critical hit is confirmed against the opponent's AC, the attack does normal damage as well. A Marksman cannot use cover fire if her opponent or the square she targets would be subject to a miss chance (such as from a concealed target).
 
 ####Psionic Powers Known
 **Deflect Missiles**
@@ -152,5 +160,7 @@ $ 3000
 40 flechas normais 2
 15 flechas +1  = 600
 $ = 33cp
+$ +20cp (trabalho)
+$ +3gp (divisão da caravana)
 
 
